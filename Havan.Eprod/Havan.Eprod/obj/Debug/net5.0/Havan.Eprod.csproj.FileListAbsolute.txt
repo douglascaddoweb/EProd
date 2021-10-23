@@ -1,0 +1,16 @@
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\bin\Debug\net5.0\Havan.Eprod.exe
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\bin\Debug\net5.0\Havan.Eprod.deps.json
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\bin\Debug\net5.0\Havan.Eprod.runtimeconfig.json
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\bin\Debug\net5.0\Havan.Eprod.runtimeconfig.dev.json
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\bin\Debug\net5.0\Havan.Eprod.dll
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\bin\Debug\net5.0\ref\Havan.Eprod.dll
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\bin\Debug\net5.0\Havan.Eprod.pdb
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\obj\Debug\net5.0\Havan.Eprod.csproj.AssemblyReference.cache
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\obj\Debug\net5.0\Havan.Eprod.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\obj\Debug\net5.0\Havan.Eprod.AssemblyInfoInputs.cache
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\obj\Debug\net5.0\Havan.Eprod.AssemblyInfo.cs
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\obj\Debug\net5.0\Havan.Eprod.csproj.CoreCompileInputs.cache
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\obj\Debug\net5.0\Havan.Eprod.dll
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\obj\Debug\net5.0\ref\Havan.Eprod.dll
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\obj\Debug\net5.0\Havan.Eprod.pdb
+C:\cursos\EProd\Havan.Eprod\Havan.Eprod\obj\Debug\net5.0\Havan.Eprod.genruntimeconfig.cache
